@@ -1,5 +1,4 @@
 # Sprint.js
-
 Sprint is a high-performance, 5KB (gzipped) DOM library for modern browsers. Sprint notably shines on bandwidth and resource constrained devices such as phones and tablets.
 
 Sprint has a familiar, jQuery-like chainable API:
